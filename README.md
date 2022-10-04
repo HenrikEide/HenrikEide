@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Henrik, I'm a masters student in informatics, specializing in algorithms. My interests include programming, climbing, beer and banter.
+My name is Henrik, I'm a masters student in informatics, specializing in algorithms. My interests include programming, climbing, beer, farse and banter.
 
 - 🌱 I’m currently learning NLP, machine teaching, more React/TS, Scala, and eyeing other functional alternatives.
 <!--
