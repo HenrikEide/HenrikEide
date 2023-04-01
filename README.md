@@ -2,7 +2,7 @@
 
 My name is Henrik, I'm a masters student in informatics, specializing in algorithms. My interests include programming, climbing, beer, farse and banter.
 
-- 🌱 I’m currently learning NLP, machine teaching, more React/TS, Scala, and eyeing other functional alternatives.
+- 🌱 I’m currently working on my master thesis on XAI for LLMs, specifically text classification.
 <!--
 **HenrikEide/HenrikEide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
