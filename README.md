@@ -1,8 +1,8 @@
 ### Hi 👋
 
-My name is Henrik, I'm a masters student in informatics, specializing in algorithms. My interests include programming, climbing, beer, farse and banter.
+My name is Henrik, I'm a full stack dev at Variant in Oslo. My interests include programming, climbing, beer, farse and banter.
 
-- 🌱 I’m currently working on my master thesis on XAI for LLMs, specifically text classification.
+- 🛠️ On my current project I'm working with dotnet and remix.
 <!--
 **HenrikEide/HenrikEide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
